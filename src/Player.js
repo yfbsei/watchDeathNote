@@ -10,7 +10,7 @@ const Player = () =>  {
 
 useEffect(() => {
 
-    fetch(`http://localhost:3000/${type}/${epi-1}`)
+    fetch(`https://api.npoint.io/f5059a6746ff8baa2dd8/${type}/${epi-1}`)
     .then(res => {
         if(res.ok) {return res.json()}
     }).then(data => setUrl(type === "DUB" ? `https://streamani.net/streaming.php?id=${data.token}=&amp;title=Death+Note+%28Dub%29+episode+${epi}` : `https://streamani.net/streaming.php?id=${data.token}=&amp;title=Death+Note+Episode+${epi}`))
