@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/watchDeathNote/static/css/main.8d0551d6.chunk.css",
+    "main.js": "/watchDeathNote/static/js/main.df2d77cf.chunk.js",
+    "main.js.map": "/watchDeathNote/static/js/main.df2d77cf.chunk.js.map",
+    "runtime-main.js": "/watchDeathNote/static/js/runtime-main.21b165ea.js",
+    "runtime-main.js.map": "/watchDeathNote/static/js/runtime-main.21b165ea.js.map",
+    "static/js/2.6a7dd370.chunk.js": "/watchDeathNote/static/js/2.6a7dd370.chunk.js",
+    "static/js/2.6a7dd370.chunk.js.map": "/watchDeathNote/static/js/2.6a7dd370.chunk.js.map",
+    "static/js/3.9ab76f13.chunk.js": "/watchDeathNote/static/js/3.9ab76f13.chunk.js",
+    "static/js/3.9ab76f13.chunk.js.map": "/watchDeathNote/static/js/3.9ab76f13.chunk.js.map",
+    "index.html": "/watchDeathNote/index.html",
+    "static/css/main.8d0551d6.chunk.css.map": "/watchDeathNote/static/css/main.8d0551d6.chunk.css.map",
+    "static/js/2.6a7dd370.chunk.js.LICENSE.txt": "/watchDeathNote/static/js/2.6a7dd370.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/watchDeathNote/static/media/deathnote.5ba4ed65.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b165ea.js",
+    "static/js/2.6a7dd370.chunk.js",
+    "static/css/main.8d0551d6.chunk.css",
+    "static/js/main.df2d77cf.chunk.js"
+  ]
+}
